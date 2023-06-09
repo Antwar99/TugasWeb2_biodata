@@ -1,0 +1,4 @@
+--membuat controller
+php  artisan make:controller BiodataController
+--menjalankan program laravel 
+php  artisan serve
